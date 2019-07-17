@@ -1,0 +1,387 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "true",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "a1ac77a5-5bda-4882-be9e-72d287a34cf9",
+  "config.email.suffix" : "@w4.com",
+  "config.file.name" : "merged.csv",
+  "config.field.mappings" : {
+    "Project name" : {
+      "jira.field" : "project.name",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Customer Request Type)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10700"
+    },
+    "Project url" : {
+      "jira.field" : "project.url",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Custom field (Change completion date)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11005"
+    },
+    "Custom field (Epic Color)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10205"
+    },
+    "Attachment" : {
+      "jira.field" : "attachment",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Creator" : {
+      "jira.field" : "reporter",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Watchers" : {
+      "jira.field" : "watcher",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Epic Link)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10118"
+    },
+    "Components" : {
+      "jira.field" : "components",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Markdown Field)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11122"
+    },
+    "Custom field (Change risk)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11002"
+    },
+    "Custom field ([CHART] Date of First Response)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10100"
+    },
+    "Time Spent" : {
+      "jira.field" : "timespent",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Resolved" : {
+      "jira.field" : "resolutiondate",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Issue id" : {
+      "jira.field" : "issue-id",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Status" : {
+      "jira.field" : "status",
+      "userChanged" : "false",
+      "manualMapping" : "true"
+    },
+    "Custom field (Checklist Completed)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11118"
+    },
+    "Assignee" : {
+      "jira.field" : "assignee",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Updated" : {
+      "jira.field" : "updated",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Start date)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11103"
+    },
+    "Issue key" : {
+      "jira.field" : "issuekey",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Business Value)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11120"
+    },
+    "Priority" : {
+      "jira.field" : "priority",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Change start date)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11004"
+    },
+    " Remaining Estimate" : {
+      "jira.field" : "timeestimate",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Labels" : {
+      "jira.field" : "labels",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    " Time Spent" : {
+      "jira.field" : "timespent",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Due date" : {
+      "jira.field" : "duedate",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Outward issue link (Duplicate)" : {
+      "link.type" : "10002",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Issue Type" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Satisfaction rating" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10801"
+    },
+    "Project description" : {
+      "jira.field" : "project.description",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Epic Name)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10200"
+    },
+    "Environment" : {
+      "jira.field" : "environment",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Outward issue link (Blocks)" : {
+      "link.type" : "10000",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Epic Status)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10119"
+    },
+    "Sprint" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10206"
+    },
+    "Resolution" : {
+      "jira.field" : "resolution",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Change type)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11001"
+    },
+    "Custom field (Request participants)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10800"
+    },
+    "Custom field (Checklist Progress)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11117"
+    },
+    "Description" : {
+      "jira.field" : "description",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Issue color)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11106"
+    },
+    "Created" : {
+      "jira.field" : "created",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    " Original Estimate" : {
+      "jira.field" : "timeoriginalestimate",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Outward issue link (Relates)" : {
+      "link.type" : "10003",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Time to resolution)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10803"
+    },
+    "Custom field (Flagged)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10301"
+    },
+    "Project type" : {
+      "jira.field" : "project.type",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Votes" : {
+      "jira.field" : "votes",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Remaining Estimate" : {
+      "jira.field" : "timeestimate",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Impact)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11000"
+    },
+    "Comment" : {
+      "jira.field" : "comment",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Parent id" : {
+      "jira.field" : "subtask-parent-id",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Reporter" : {
+      "jira.field" : "reporter",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Development)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10000"
+    },
+    "Custom field (Story point estimate)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11104"
+    },
+    "Outward issue link (Cloners)" : {
+      "link.type" : "10001",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Log Work" : {
+      "jira.field" : "worklog",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Rank)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10202"
+    },
+    "Project lead" : {
+      "jira.field" : "project.lead",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Project key" : {
+      "jira.field" : "project.key",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Location/s)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11121"
+    },
+    "Custom field (Request language)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11100"
+    },
+    "Summary" : {
+      "jira.field" : "summary",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Checklist Content YAML)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11119"
+    },
+    "Custom field (Story Points)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10203"
+    },
+    "Original Estimate" : {
+      "jira.field" : "timeoriginalestimate",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Custom field (Change reason)" : {
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "11003"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : {
+    "Status" : {
+      "Ready for QA" : "10400",
+      "To Do" : "10503",
+      "Done" : "10505",
+      "Reopened" : "4",
+      "On Hold" : "10400",
+      "Closed" : "6",
+      "In Progress" : "10504",
+      "Resolved" : "10304",
+      "Code Review" : "10001",
+      "Backlog" : "1",
+      "ON HOLD" : "10400",
+      "Open" : "1"
+    }
+  },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "",
+    "project.lead" : null
+  },
+  "config.date.format" : "dd/MMM/yy h:mm a"
+}
